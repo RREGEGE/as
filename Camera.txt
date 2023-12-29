@@ -1,3 +1,5 @@
 canon
 sonar
 rader
+raider
+merge
